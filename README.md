@@ -22,13 +22,13 @@ Selain sebagai tugas, repository ini juga berisi catatan, eksperimen, dan hasil 
 
 | Pertemuan | Topik | Notebook GitHub | Google Colab |
 |-----------|--------|----------------|--------------|
-| 1 | Pengenalan Data Science | [GitHub](https://github.com/febi/data-science-2026/blob/master/Pertemuan1_Febi_Kristiana_240401010231.ipynb) | [Colab](https://colab.research.google.com/drive/1iuuvM5qhLrypemrc5hyZF4gaiiaRKP2K?usp=sharing) |
-| 2 | Struktur Data Python, NumPy & Pandas | [GitHub](https://github.com/febi/data-science-2026/blob/master/Pertemuan2_Febi_Kristiana_240401010231.ipynb) | [Colab](https://colab.research.google.com/drive/1CpTmFMWneM8Y_n9eHlGXUM02tE6bzetR?usp=sharing) |
-| 3 | Data Cleaning: Missing, Outlier & Ekstraksi | [GitHub](https://github.com/febi/data-science-2026/blob/master/Pertemuan3_Febi_Kristiana_240401010231.ipynb) | [Colab](https://colab.research.google.com/drive/1tmbrUhJNB3UbfPxR_3i5mtwBgbpG1pvk?usp=sharing) |
-| 4 | Statistika Dasar & Analisis Data | [GitHub](https://github.com/febi/data-science-2026/blob/master/Pertemuan4_Febi_Kristiana_240401010231.ipynb) | [Colab](https://colab.research.google.com/drive/10NMaIhpYlRIzJUhWXIU1px9-PiaBvdWf?usp=sharing) |
-| 5 | Visualisasi Data | [GitHub](https://github.com/febi/data-science-2026/blob/master/Pertemuan5_Febi_Kristiana_240401010231.ipynb) | [Colab](https://colab.research.google.com/drive/1e5yCLQc19RRpV1ZaAEjhLrrzl1sBTwzD?usp=sharing) |
-| 6 | Persiapan Data | [GitHub](https://github.com/febi/data-science-2026/blob/master/Pertemuan6_Febi_Kristiana_240401010231.ipynb) | [Colab](https://colab.research.google.com/drive/1Y2F00OMVGv5YOLwmwb0rsMYt4kTrn9Dt?usp=sharing) |
-| 7 | Pengantar Machine Learning: Regresi Linierg | [GitHub](https://github.com/febi/data-science-2026/blob/master/Pertemuan7_Febi_Kristiana_240401010231.ipynb) | [Colab](https://colab.research.google.com/drive/1_D6uw6byn_9CG1CYVIM6mX6Jl6qjTCe8?usp=sharing) ||
+| 1 | Pengenalan Data Science | [GitHub](https://github.com/HakumenWorld/data-science-2026/blob/main/Pertemuan1_Febi_Kristiana_240401010231.ipynb) | [Colab](https://colab.research.google.com/drive/1kWMct3PS8RvlDQZoo7zg0yWKZ-gwEvVX?usp=sharing) |
+| 2 | Struktur Data Python, NumPy & Pandas | [GitHub](https://github.com/HakumenWorld/data-science-2026/blob/main/Pertemuan2_Febi_Kristiana_240401010231.ipynb) | [Colab](https://colab.research.google.com/drive/1E8ZSseBiOr5Jk5w2TQyLsJ40wMA-mEro?usp=sharing) |
+| 3 | Data Cleaning: Missing, Outlier & Ekstraksi | [GitHub](https://github.com/HakumenWorld/data-science-2026/blob/main/Pertemuan3_Febi_Kristiana_240401010231.ipynb) | [Colab](https://drive.google.com/file/d/1ZDOsmkzQ_y2szxWvukRPqsvSkaprxgjD/view?usp=sharing) |
+| 4 | Statistika Dasar & Analisis Data | [GitHub](https://github.com/HakumenWorld/data-science-2026/blob/main/Pertemuan4_Febi_Kristiana_240401010231.ipynb) | [Colab](https://drive.google.com/file/d/1JffAcy72Y6HySIYdLy1SZCi_tEh3EOcf/view?usp=sharing) |
+| 5 | Visualisasi Data | [GitHub](https://github.com/HakumenWorld/data-science-2026/blob/main/Pertemuan5_Febi_Kristiana_240401010231.ipynb) | [Colab](https://drive.google.com/file/d/1w4xJ3-EoHVA2IG2nHqbHJvQ8_mXXL3YI/view?usp=sharing) |
+| 6 | Persiapan Data | [GitHub](https://github.com/HakumenWorld/data-science-2026/blob/main/Pertemuan6_Febi_Kristiana_240401010231.ipynb) | [Colab](https://drive.google.com/file/d/1tHvKsH2M2zg0OFQ3oTOIbts9UJfT0B3T/view?usp=sharing) |
+| 7 | Pengantar Machine Learning: Regresi Linierg | [GitHub](https://github.com/HakumenWorld/data-science-2026/blob/main/Pertemuan7_Febi_Kristiana_240401010231.ipynb) | [Colab](https://drive.google.com/file/d/1uX3MTHkLaRav5HmD8Kw-YdWklVA7eHMN/view?usp=sharing) |
 
 
 ## Tools dan Library yang Digunakan
