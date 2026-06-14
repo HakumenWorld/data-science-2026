@@ -43,12 +43,6 @@ Selain sebagai tugas, repository ini juga berisi catatan, eksperimen, dan hasil 
 - Scikit-Learn
 
 
-## Tujuan Belajar Data Science
-
-Saya belajar Data Science untuk memahami bagaimana data dapat diolah menjadi informasi yang bermanfaat dalam pengambilan keputusan. Selain itu, saya ingin meningkatkan kemampuan saya dan beralih profesi ke bidang Data Science.
-
-Melalui pembelajaran ini, saya berharap dapat meningkatkan kemampuan analisis data, visualisasi data, serta memahami dasar-dasar machine learning sebagai bekal untuk mengembangkan karier di bidang teknologi dan data.
-
 ## Cara Menjalankan Notebook
 
 ### Menggunakan Google Colab
