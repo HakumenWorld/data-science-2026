@@ -11,26 +11,24 @@
 
 ## Tentang Repository
 
-Halo! Saya Febi Kristiana, mahasiswa Program Studi Informatika Universitas Siber Asia yang sedang mempelajari bidang Data Science.
+Halo, saya Febi Kristiana, seorang mahasiswa yang sedang mempelajari Data Science. Saya memiliki ketertarikan pada pengolahan data, analisis data, visualisasi data, serta penerapan teknologi untuk membantu pengambilan keputusan berbasis data. Tujuan saya belajar Data Science tidak hanya untuk memahami konsep dan meningkatkan keterampilan, tetapi juga untuk mempersiapkan diri agar dapat bekerja dan berkembang di bidang Data Science di masa depan.
 
-Repository ini dibuat sebagai dokumentasi perjalanan belajar saya selama mengikuti mata kuliah Data Science pada Semester Genap Tahun Akademik 2025/2026. Seluruh notebook yang terdapat di dalam repository ini merupakan hasil pengerjaan aktivitas hands-on dan praktikum dari Pertemuan 1 hingga Pertemuan 7.
+Repository ini dibuat sebagai tempat dokumentasi proses belajar, latihan, dan pengembangan kemampuan dalam bidang Data Science. Di dalam repository ini terdapat berbagai materi pembelajaran, project sederhana, pengolahan dataset, analisis data, visualisasi, serta implementasi dasar machine learning menggunakan Python, beberapa library pendukung seperti Pandas, NumPy, Matplotlib, Scikit-learn dan merupakan hasil pengerjaan aktivitas hands-on dan praktikum dari Pertemuan 1 hingga Pertemuan 7.
 
-Melalui berbagai praktikum yang telah dikerjakan, saya mempelajari dasar-dasar Data Science mulai dari pengenalan Python untuk analisis data, manipulasi data menggunakan Pandas dan NumPy, visualisasi data menggunakan Matplotlib dan Seaborn, hingga penerapan proses data cleaning dan analisis data.
-
-Selain sebagai tugas Ujian Tengah Semester (UTS), repository ini juga menjadi portofolio pembelajaran yang menunjukkan perkembangan pemahaman dan keterampilan saya dalam bidang Data Science.
+Selain sebagai tugas, repository ini juga berisi catatan, eksperimen, dan hasil praktik yang saya kerjakan selama proses belajar. Harapannya, repository ini dapat menjadi media untuk mengukur perkembangan kemampuan saya sekaligus menjadi portofolio yang dapat menunjukkan pengalaman dan keterampilan di bidang Data Science.
 
 
 ## Daftar Topik Pratikum
 
-| Pertemuan | Topik | Notebook GitHub |
-|-----------|--------|----------------|
-| 1 | Pengenalan Data Science | [GitHub](https://github.com/febi/data-science-2026/blob/master/Pertemuan1_Febi_Kristiana_240401010231.ipynb) |
-| 2 | Struktur Data Python, NumPy & Pandas | [GitHub](https://github.com/febi/data-science-2026/blob/master/Pertemuan2_Febi_Kristiana_240401010231.ipynb) |
-| 3 | Data Cleaning: Missing, Outlier & Ekstraksi | [GitHub](https://github.com/febi/data-science-2026/blob/master/Pertemuan3_Febi_Kristiana_240401010231.ipynb) |
-| 4 | Statistika Dasar & Analisis Data | [GitHub](https://github.com/febi/data-science-2026/blob/master/Pertemuan4_Febi_Kristiana_240401010231.ipynb) |
-| 5 | Visualisasi Data | [GitHub](https://github.com/febi/data-science-2026/blob/master/Pertemuan5_Febi_Kristiana_240401010231.ipynb) |
-| 6 | Persiapan Data | [GitHub](https://github.com/febi/data-science-2026/blob/master/Pertemuan6_Febi_Kristiana_240401010231.ipynb) |
-| 7 | Pengantar Machine Learning: Regresi Linierg | [GitHub](https://github.com/febi/data-science-2026/blob/master/Pertemuan7_Febi_Kristiana_240401010231.ipynb) |
+| Pertemuan | Topik | Notebook GitHub | Google Colab |
+|-----------|--------|----------------|--------------|
+| 1 | Pengenalan Data Science | [GitHub](https://github.com/febi/data-science-2026/blob/master/Pertemuan1_Febi_Kristiana_240401010231.ipynb) | [Colab](https://colab.research.google.com/drive/1iuuvM5qhLrypemrc5hyZF4gaiiaRKP2K?usp=sharing) |
+| 2 | Struktur Data Python, NumPy & Pandas | [GitHub](https://github.com/febi/data-science-2026/blob/master/Pertemuan2_Febi_Kristiana_240401010231.ipynb) | [Colab](https://colab.research.google.com/drive/1CpTmFMWneM8Y_n9eHlGXUM02tE6bzetR?usp=sharing) |
+| 3 | Data Cleaning: Missing, Outlier & Ekstraksi | [GitHub](https://github.com/febi/data-science-2026/blob/master/Pertemuan3_Febi_Kristiana_240401010231.ipynb) | [Colab](https://colab.research.google.com/drive/1tmbrUhJNB3UbfPxR_3i5mtwBgbpG1pvk?usp=sharing) |
+| 4 | Statistika Dasar & Analisis Data | [GitHub](https://github.com/febi/data-science-2026/blob/master/Pertemuan4_Febi_Kristiana_240401010231.ipynb) | [Colab](https://colab.research.google.com/drive/10NMaIhpYlRIzJUhWXIU1px9-PiaBvdWf?usp=sharing) |
+| 5 | Visualisasi Data | [GitHub](https://github.com/febi/data-science-2026/blob/master/Pertemuan5_Febi_Kristiana_240401010231.ipynb) | [Colab](https://colab.research.google.com/drive/1e5yCLQc19RRpV1ZaAEjhLrrzl1sBTwzD?usp=sharing) |
+| 6 | Persiapan Data | [GitHub](https://github.com/febi/data-science-2026/blob/master/Pertemuan6_Febi_Kristiana_240401010231.ipynb) | [Colab](https://colab.research.google.com/drive/1Y2F00OMVGv5YOLwmwb0rsMYt4kTrn9Dt?usp=sharing) |
+| 7 | Pengantar Machine Learning: Regresi Linierg | [GitHub](https://github.com/febi/data-science-2026/blob/master/Pertemuan7_Febi_Kristiana_240401010231.ipynb) | [Colab](https://colab.research.google.com/drive/1_D6uw6byn_9CG1CYVIM6mX6Jl6qjTCe8?usp=sharing) ||
 
 
 ## Tools dan Library yang Digunakan
