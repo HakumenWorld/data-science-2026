@@ -13,7 +13,7 @@
 
 Halo, saya Febi Kristiana, seorang mahasiswa yang sedang mempelajari Data Science. Saya memiliki ketertarikan pada pengolahan data, analisis data, visualisasi data, serta penerapan teknologi untuk membantu pengambilan keputusan berbasis data. Tujuan saya belajar Data Science tidak hanya untuk memahami konsep dan meningkatkan keterampilan, tetapi juga untuk mempersiapkan diri agar dapat bekerja dan berkembang di bidang Data Science di masa depan.
 
-Repository ini dibuat sebagai tempat dokumentasi proses belajar, latihan, dan pengembangan kemampuan dalam bidang Data Science. Di dalam repository ini terdapat berbagai materi pembelajaran, project sederhana, pengolahan dataset, analisis data, visualisasi, serta implementasi dasar machine learning menggunakan Python, beberapa library pendukung seperti Pandas, NumPy, Matplotlib, Scikit-learn dan merupakan hasil pengerjaan aktivitas hands-on dan praktikum dari Pertemuan 1 hingga Pertemuan 7.
+Repository ini dibuat sebagai tempat dokumentasi proses belajar, latihan, dan pengembangan kemampuan dalam bidang Data Science. Di dalam repository ini terdapat berbagai materi pembelajaran, project sederhana, pengolahan dataset, analisis data, visualisasi, serta implementasi dasar machine learning menggunakan Python, beberapa library pendukung seperti Pandas, NumPy, Matplotlib, Scikit-learn dan merupakan hasil pengerjaan aktivitas hands-on dan praktikum dari Pertemuan 1 hingga Pertemuan 13.
 
 Selain sebagai tugas, repository ini juga berisi catatan, eksperimen, dan hasil praktik yang saya kerjakan selama proses belajar. Harapannya, repository ini dapat menjadi media untuk mengukur perkembangan kemampuan saya sekaligus menjadi portofolio yang dapat menunjukkan pengalaman dan keterampilan di bidang Data Science.
 
